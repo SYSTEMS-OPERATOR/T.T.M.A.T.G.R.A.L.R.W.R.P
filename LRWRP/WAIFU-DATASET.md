@@ -54,3 +54,8 @@ we'll adapt the ten main classes of the WDS to fit the context of waifu characte
 10. **`History & Geography` (900-999)** `HISTORY`
     - Historical Backgrounds of Characters
     - Geographic and World-Building Aspects in Character Development
+
+---
+![image](https://github.com/SYSTEMS-OPERATOR/T.T.M.A.T.G.R.A.L.R.W.R.P/assets/94399418/26cfa137-898b-4776-a3f5-06584751740a)
+
+
