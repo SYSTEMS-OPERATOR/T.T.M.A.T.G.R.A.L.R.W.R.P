@@ -15,7 +15,6 @@ Our mission is to become the go-to platform for interacting with AI-generated wa
 * Chat with AI-generated waifu characters based on series content.
 * Customizable waifu character generation with LoRA training on extracted data.
 * Integrated with a variety of manga and anime databases for character information and context.
-* Fun and engaging cat picture requirement for all contributions (meow! 🐱).
 
 ## How to install
 
@@ -52,16 +51,17 @@ Access our interactive Colab notebook [here](https://colab.research.google.com/g
 
 ## Contributing
 
-Join our fun and innovative project! For contributing guidelines, visit [here](https://github.com/YourRepo/waifu-webui/wiki/Contributing-guidelines). Don't forget your cat pictures!
+Join our fun and innovative project! For contributing guidelines, visit [here](https://github.com/SYSTEMS-OPERATOR/T.T.M.A.T.G.R.A.L.R.W.R.P/issues/3). Don't forget your cat pictures!
 
 ## Community
 
+* Hugging Face: [Low Res Waifu](link)
 * Subreddit: [r/YourWaifuProject](https://www.reddit.com/r/YourWaifuProject/)
 * Discord: [Join our Discord community](https://discord.gg/YourLinkHere)
 
 ## Acknowledgment & support
 
-Special thanks to [YourSponsor](https://yoursponsor.com/) for their support. If you enjoy our project, consider supporting us on [Patreon](https://www.patreon.com/YourProject).
+Special thanks to [AI-B](https://ai-b.one/) for their support. If you enjoy our project, consider supporting us on [Patreon](https://www.patreon.com/YourProject).
 
 ---
 
