@@ -4,7 +4,7 @@ A Gradio web UI for Low Res Waifu Models.
 
 Our mission is to become the go-to platform for interacting with AI-generated waifu characters, inspired by manga and anime series.
 
-|![Waifu1](https://github.com/YourRepo/screenshots/raw/main/waifu_instruct.png) | ![Waifu2](https://github.com/YourRepo/screenshots/raw/main/waifu_chat.png) |
+|![Waifu1](https://github.com/SYSTEMS-OPERATOR/T.T.M.A.T.G.R.A.L.R.W.R.P/assets/155610697/c55d6403-3fde-4e4c-b0e2-9ac9af9b887a) | ![Waifu2](https://github.com/YourRepo/screenshots/raw/main/waifu_chat.png) |
 |:---:|:---:|
 |![Waifu3](https://github.com/YourRepo/screenshots/raw/main/waifu_default.png) | ![Waifu4](https://github.com/YourRepo/screenshots/raw/main/waifu_parameters.png) |
 
