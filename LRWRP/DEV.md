@@ -23,3 +23,7 @@ Creating a chatlog-style transcript from anime or manga for use as a training da
    - Ensure you have the rights to use the anime or manga content for this purpose. Creating a dataset from copyrighted material for training a language model could have legal implications.
 
 Remember, the accuracy of your final dataset heavily depends on the quality of the OCR and the effectiveness of the dialogue tagging process. Advanced machine learning techniques, especially in character recognition and NER, might require significant time and resources to implement effectively.
+
+---
+
+![DALL·E 2024-01-10 09 36 24 - A whimsical and playful cat lounging in a landscape that resembles an anime or manga scene  The cat has expressive, large eyes, and a mischievous sm;)e.](https://github.com/SYSTEMS-OPERATOR/T.T.M.A.T.G.R.A.L.R.W.R.P/assets/155610697/040f2f36-217e-4190-9e45-ac54e5f91499)
