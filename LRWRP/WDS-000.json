@@ -1,0 +1,135 @@
+{
+  "EncyclopediasOfCharacterTropes": {
+    "description": "A comprehensive guide to character archetypes and motifs in anime and manga.",
+    "tropes": [
+      {
+        "name": "Tsundere",
+        "description": "Initially cold and even hostile towards another character but shows a warmer side over time.",
+        "examples": [
+          {"character": "Asuka Langley Soryu", "series": "Neon Genesis Evangelion"},
+          {"character": "Taiga Aisaka", "series": "Toradora!"}
+        ]
+      },
+      {
+        "name": "Yandere",
+        "description": "Character who is initially loving and gentle to someone they are very affectionate towards, but their devotion becomes destructive in nature, often through violence.",
+        "examples": [
+          {"character": "Yuno Gasai", "series": "Mirai Nikki"},
+          {"character": "Kotonoha Katsura", "series": "School Days"}
+        ]
+      },
+      {
+        "name": "Kuudere",
+        "description": "Appears cold and indifferent on the outside but is actually caring and soft-hearted on the inside.",
+        "examples": [
+          {"character": "Rei Ayanami", "series": "Neon Genesis Evangelion"},
+          {"character": "Mai Sakurajima", "series": "Rascal Does Not Dream of Bunny Girl Senpai"}
+        ]
+      },
+      {
+        "name": "Dandere",
+        "description": "Quiet, shy, and harmless character who becomes more talkative and expressive when around the right person.",
+        "examples": [
+          {"character": "Hinata Hyuga", "series": "Naruto"},
+          {"character": "Shouko Komi", "series": "Komi Can't Communicate"}
+        ]
+      },
+      {
+        "name": "Genki Girl",
+        "description": "Energetic and cheerful, often providing the emotional support in the group.",
+        "examples": [
+          {"character": "Sakura Kinomoto", "series": "Cardcaptor Sakura"},
+          {"character": "Mako Mankanshoku", "series": "Kill la Kill"}
+        ]
+      },
+      {
+        "name": "Moe",
+        "description": "Innocent and cute characters that are meant to evoke a protective instinct in the audience.",
+        "examples": [
+          {"character": "Nadeshiko Kagamihara", "series": "Laid-Back Camp"},
+          {"character": "Tsumugi Kotobuki", "series": "K-On!"}
+        ]
+      },
+      {
+        "name": "Bishōnen",
+        "description": "Beautiful, often androgynous young men, designed to appeal to the aesthetic senses.",
+        "examples": [
+          {"character": "Tamaki Suoh", "series": "Ouran High School Host Club"},
+          {"character": "Viktor Nikiforov", "series": "Yuri!!! on Ice"}
+        ]
+      },
+      {
+        "name": "Bishojo",
+        "description": "Young and pretty girls, often the central characters in romance plots.",
+        "examples": [
+          {"character": "Usagi Tsukino", "series": "Sailor Moon"},
+          {"character": "Nana Komatsu", "series": "Nana"}
+        ]
+      },
+      {
+        "name": "Isekai Protagonist",
+        "description": "Characters who are transported from the real world to a fantasy realm or parallel universe.",
+        "examples": [
+          {"character": "Kazuma Satou", "series": "KonoSuba"},
+          {"character": "Subaru Natsuki", "series": "Re:Zero"}
+        ]
+      },
+      {
+        "name": "Mecha Pilot",
+        "description": "Characters known for piloting giant robots or mechs, often in sci-fi settings.",
+        "examples": [
+          {"character": "Shinji Ikari", "series": "Neon Genesis Evangelion"},
+          {"character": "Amuro Ray", "series": "Mobile Suit Gundam"}
+        ]
+      },
+      {
+        "name": "Magical Girl",
+        "description": "Girls who possess magical powers, often transforming to fight evil.",
+        "examples": [
+          {"character": "Madoka Kaname", "series": "Puella Magi Madoka Magica"},
+          {"character": "Nanoha Takamachi", "series": "Magical Girl Lyrical Nanoha"}
+        ]
+      },
+      {
+        "name": "Chuunibyou",
+        "description": "Characters who have delusional beliefs of grandeur or fantasy worlds, often acting as if they possess special powers or are involved in a grand narrative.",
+        "examples": [
+          {"character": "Rikka Takanashi", "series": "Love, Chunibyo & Other Delusions"},
+          {"character": "Megumin", "series": "KonoSuba"}
+        ]
+      },
+      {
+        "name": "Senpai/Kohai",
+        "description": "Characters involved in a senior-junior relationship, often explored in school or work settings.",
+        "examples": [
+          {"character": "Misaki Ayuzawa", "series": "Maid Sama!", "role": "Senpai"},
+          {"character": "Takumi Usui", "series": "Maid Sama!", "role": "Kohai"}
+        ]
+      },
+      {
+        "name": "Sensei",
+        "description": "Teachers or mentors to the main characters, often providing guidance, training, or moral support.",
+        "examples": [
+          {"character": "Kakashi Hatake", "series": "Naruto"},
+          {"character": "Koro-sensei", "series": "Assassination Classroom"}
+        ]
+      },
+      {
+        "name": "Shonen Hero",
+        "description": "Typically young male protagonists known for their courage, determination, and growth, often in action-packed narratives.",
+        "examples": [
+          {"character": "Goku", "series": "Dragon Ball"},
+          {"character": "Izuku Midoriya", "series": "My Hero Academia"}
+        ]
+      },
+      {
+        "name": "Shojo Heroine",
+        "description": "Female protagonists in stories that focus on romance, personal growth, and emotions.",
+        "examples": [
+          {"character": "Tohru Honda", "series": "Fruits Basket"},
+          {"character": "Sawako Kuronuma", "series": "Kimi ni Todoke"}
+        ]
+      }
+    ]
+  }
+}
